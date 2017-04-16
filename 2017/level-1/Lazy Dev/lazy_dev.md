@@ -1,4 +1,7 @@
-# Laze Dev
+# Lazy Dev
+
+This was the Master Challenge of Level 1. In order to move to Level 2,
+we had to crack this one.
 
 Problem:
 
