@@ -36,3 +36,5 @@ Parse this message to see which character is to be sent how many times to
 the server.
 
 Create a string based on this message and send those bytes to the server.
+
+Call the receive function to get the flag from the server.
